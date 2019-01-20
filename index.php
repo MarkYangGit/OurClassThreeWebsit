@@ -2,6 +2,9 @@
 <html>
     <head>
      	<title>钟灵中学九三班</title>
+     	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<meta http-equiv="Content-Language" content="zh-CN" />
+    	<link href="style/style.css" rel="stylesheet" type="text/css">
     </head>
 
     <body>
